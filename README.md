@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7953CD,100:00C2FF&text=Hey%20there%20%F0%9F%91%8B%20I'm%20Yuvraj%20Kumar&fontAlign=50&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7953CD,100:00C2FF&text=Hey%20there ! %20I'm%20Yuvraj%20Kumar&fontAlign=50&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack&descAlign=50&descSize=18" />
 </p>
 
 <!-- TYPING INTRO -->
