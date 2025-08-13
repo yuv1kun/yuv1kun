@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%E2%9A%A1;AI+Innovator+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Always+learning%2C+building%2C+shipping+%E2%9C%A8" />
 </p>
 
-<!-- COUNTERS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuv1kun&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuv1kun&count_bg=%237953CD&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false" alt="visitor counter"/>
-  </a>
-</p>
-
 ---
 
 ## 🧠 ABOUT ME
