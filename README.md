@@ -15,16 +15,16 @@
 
 ---
 
-<h2 align="center"><b>ABOUT ME</b> <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="28" /></h2>
+<h2 align="center"><b>About Me</b> <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="28" /></h2>
 
 - 🎓 **B.E. in Computer Science – Cyber Security** @ **RV College of Engineering** (Batch 2026)
-- 🔐 Love building **AI-assisted** security tools, **real-time dashboards**, and robust backends
+- 🔐 Love building **AI-assisted** security tools, **real-world projects**, with **robust backends**
 - 🌱 Exploring **Agentic AI**, **Ethical Hacking**, and **Quantum/Neuromorphic ideas**
 - 🤝 Open to collabs, hackathons, and weekend builds
 
 ---
 
-<h2 align="center"><b>TECH STACK</b> <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28" /></h2>
+<h2 align="center"><b>Tech Stack</b> <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28" /></h2>
 
 <!-- Animated marquee of icons -->
 <p align="center">
@@ -40,7 +40,7 @@
 
 ---
 
-<h2 align="center"><b>FEATURED PROJECTS</b> <img src="https://media.giphy.com/media/l0ExvMq8h1aE7Y5bW/giphy.gif" width="28" /></h2>
+<h2 align="center"><b>Featured Projects</b> <img src="https://media.giphy.com/media/l0ExvMq8h1aE7Y5bW/giphy.gif" width="28" /></h2>
 
 ### 🧠 Kenshi – Neuromorphic Zero-Day Threat Detection
 - **94.1% accuracy**, **2.1% FPR** on CIC-IDS2017 & UNSW-NB15
@@ -55,7 +55,7 @@
 - Tracked **CO₂ savings** and impact; **~40% faster coordination**
 
 <details>
-  <summary><b>EXPAND FOR MORE PROJECT GIF VIBES</b> ▾</summary>
+  <summary><b>Expand for More Project GIF Vibes</b> ▾</summary>
   <br/>
   <p align="center">
     <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="320" />
@@ -65,7 +65,7 @@
 
 ---
 
-<h2 align="center"><b>GITHUB INSIGHTS</b> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28" /></h2>
+<h2 align="center"><b>Github Insights</b> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28" /></h2>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=yuv1kun&theme=radical&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="streak stats"/>
@@ -88,7 +88,7 @@
 
 ---
 
-<h2 align="center"><b>LIVE BADGES</b> <img src="https://media.giphy.com/media/j5hJ4Fes7wN4E/giphy.gif" width="28" /></h2>
+<h2 align="center"><b>Live Badges</b> <img src="https://media.giphy.com/media/j5hJ4Fes7wN4E/giphy.gif" width="28" /></h2>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/yuv1kun?style=for-the-badge&logo=github" />
@@ -99,11 +99,12 @@
 
 ---
 
-<h2 align="center"><b>CERTIFICATIONS</b> <img src="https://media.giphy.com/media/ZbftmEwHTJIBm/giphy.gif" width="28" /></h2>
+<h2 align="center"><b>Certifications</b> <img src="https://media.giphy.com/media/ZbftmEwHTJIBm/giphy.gif" width="28" /></h2>
 
 - Google **Gen AI Academy**
 - **MLOps for Generative AI**
 - **Developing Real-World GenAI Apps with Gemini in GCP**
+- **Prompt Designing and Engineering in GCP**
 
 ---
 
