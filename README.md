@@ -27,7 +27,7 @@
 
 ---
 
-## ⚙️ TECH STACK (Animated)
+## ⚙️ TECH STACK
 
 <!-- Animated marquee of icons -->
 <p align="center">
