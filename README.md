@@ -19,7 +19,7 @@
 
 ---
 
-## ⚙️ TECH STACK (Animated)
+## ⚙️ TECH STACK
 
 <!-- Animated marquee of icons -->
 <p align="center">
@@ -74,8 +74,8 @@
 ## 🏅 CERTIFICATIONS
 
 - Google **Gen AI Academy**
-- **MLOps for Generative AI** (Skill Badge)
-- **Developing Real-World GenAI Apps with Gemini in GCP** (Skill Badge)
+- **MLOps for Generative AI**
+- **Developing Real-World GenAI Apps with Gemini in GCP**
 
 ---
 
