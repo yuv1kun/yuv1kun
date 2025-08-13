@@ -107,12 +107,6 @@
 
 ---
 
-<h2 align="center"><b>QUOTES • JOKES</b> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="28" /></h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="rotating quote"/>
-</p>
-
 ---
 
 <h2 align="center"><b>LET’S CONNECT</b> <img src="https://media.giphy.com/media/5WJlA1Q4YQk0E/giphy.gif" width="28" /></h2>
