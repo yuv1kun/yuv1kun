@@ -87,14 +87,6 @@
 
 ---
 
-<h2 align="center"><b>Live Badges</b> <img src="https://media.giphy.com/media/j5hJ4Fes7wN4E/giphy.gif" width="28" /></h2>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/yuv1kun?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/yuv1kun?style=for-the-badge&logo=github" />
-  <!-- OPTIONAL: replace 'yourhandle' with your X handle if you want this -->
-  <!-- <img src="https://img.shields.io/twitter/follow/yourhandle?style=for-the-badge&logo=x" /> -->
-</p>
 
 ---
 
