@@ -17,7 +17,7 @@
 <h2 align="center"><b>About Me</b> <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="28" /></h2>
 
 - 🎓 **B.E. in Computer Science – Cyber Security** @ **RV College of Engineering** (Batch 2026)
-- 🔐 Love building **AI-assisted** security tools, **real-time dashboards**, and robust backends
+- 🔐 Love building **AI-assisted** security tools, **real-world apps**, and robust backends
 - 🌱 Exploring **Agentic AI**, **Ethical Hacking**, and **Quantum/Neuromorphic ideas**
 - 🤝 Open to collabs, hackathons, and weekend builds
 
