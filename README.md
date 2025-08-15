@@ -32,11 +32,6 @@
   </marquee>
 </p>
 
-<!-- Static fallback -->
-<p align="center">
-  <img height="42" src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,next,node,express,fastapi,flask,postgres,mysql,redis,docker,gcp,git,figma,tailwind,d3&perline=10" alt="tech stack static" />
-</p>
-
 ---
 
 <h2 align="center"><b>Featured Projects</b> <img src="https://media.giphy.com/media/l0ExvMq8h1aE7Y5bW/giphy.gif" width="28" /></h2>
@@ -84,9 +79,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuv1kun&theme=radical&row=1&column=6" alt="trophies"/>
 </p>
-
----
-
 
 ---
 
